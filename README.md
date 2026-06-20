@@ -4,7 +4,7 @@
 
 **PoC Video:**
 
-[![Argus Bearer Token Bypass - PoC Video](https://youtu.be/5EVHt983fKE)
+[▶️ Watch PoC: Bearer Token Bypass via Console Manipulation](https://youtu.be/5EVHt983fKE)
 
 ---
 
