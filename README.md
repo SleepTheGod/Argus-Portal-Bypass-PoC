@@ -4,7 +4,7 @@
 
 **PoC Video:**
 
-[![Argus Bearer Token Bypass - PoC Video](https://img.youtube.com/vi/5EVHt983fKE/maxresdefault.jpg)](https://youtu.be/5EVHt983fKE)
+[![Argus Bearer Token Bypass - PoC Video](https://youtu.be/5EVHt983fKE)
 
 ---
 
